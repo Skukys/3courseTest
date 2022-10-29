@@ -1,0 +1,22 @@
+.red{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.red.blue{
+    background: blue;
+}
+.red.pink{
+    background: pink;
+}
+.red.green{
+    background: green;
+}
+.red.black{
+    background: black;
+}
+.red.brown{
+    background: brown;
+}
